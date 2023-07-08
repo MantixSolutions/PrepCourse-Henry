@@ -1,2 +1,2 @@
-Proyecto de prueba
-Como crear un repositorio y clonarlo desde Github a mi PC
+07-07-2023
+Probando repositorios locales y remotos en github
