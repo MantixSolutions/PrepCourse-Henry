@@ -1,2 +1,4 @@
+console.log("hola " + "Hector");
 
-console.log (85 % 4);
+var nombre = "Hector";
+var saludo = "Hola " + nombre;
